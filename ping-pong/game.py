@@ -7,7 +7,7 @@ SCREEN_TITLE = "пинг-понг"
 
 
 BALL_SPEEDX = 4
-BALL_SPEEDY = -4
+BALL_SPEEDY = 4
 BALL_IMG = "ping-pong/ball.png"
 BALL_SIZE = 0.2
 
